@@ -2,7 +2,7 @@
 title: JAVA编码中养成的坏习惯
 author: meng@xy
 avatar: https://i.loli.net/2019/12/30/ekxtSEDmwrsBqnU.png
-authorLink: vertx.top
+authorLink: https://juejin.im/user/5a31e8da6fb9a0450809ab85/posts
 authorAbout: 研发工程师 | 角马科技（大连）有限公司
 authorDesc: 指尖下的幽灵-异世界的伴侣-希望永绝之地-生命沉寂之岭
 categories: 技术
