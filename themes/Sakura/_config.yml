@@ -1,8 +1,8 @@
 # site name
-prefixName: Vertx奔流不息
-siteName: 万爱从心
+prefixName: Vert.x 奔流不息
+siteName:
 # favicon and site master avatar
-favicon: /images/favicon.ico
+favicon: /img/favicon.ico
 avatar: /img/custom/avatar.jpg
 url: http://vertx.top
 description: 一双充满生命力的眼睛
