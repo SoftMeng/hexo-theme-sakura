@@ -64,6 +64,8 @@ startdash:
   #- {url: /theme-sakura/, title: Sakura, desc: 本站 hexo 主题, img: /img/startdash/sakura.md.png}
   #- {url: http://space.bilibili.com/271849279, title: Bilibili, desc: 博主的b站视频, img: /img/startdash/bilibili.jpg}
   - {url: /, title: 万事屋, desc: 技术服务, img: /img/startdash/wangshiwu.jpg}
+  - {url: /tags/悦读/, title: 悦读, desc: 喜欢就读一读, img: /img/startdash/sakura.md.png}
+  - {url: https://juejin.im/user/5a31e8da6fb9a0450809ab85/posts, title: 掘金, desc: 掘金主页, img: /img/startdash/bilibili.jpg}
 
 
 
@@ -73,11 +75,11 @@ siteBuildingTime: 07/17/2019
 #social  url, img PC端配置
 social:
   github: {url: https://github.com/SoftMeng, img: /img/social/github.png}
-  #sina: {url: http://weibo.com/mashirozx?is_all=1, img: /img/social/sina.png}
-  #wangyiyun: {url: http://weibo.com/mashirozx?is_all=1, img: /img/social/wangyiyun.png}
+  sina: {url: https://juejin.im/user/5a31e8da6fb9a0450809ab85/posts, img: /img/social/sina.png}
+  wangyiyun: {url: https://juejin.im/user/5a31e8da6fb9a0450809ab85/posts, img: /img/social/wangyiyun.png}
   zhihu: {url: https://juejin.im/user/5a31e8da6fb9a0450809ab85/posts, img: /img/social/zhihu.png}
-  #email: {url: http://weibo.com/mashirozx?is_all=1, img: /img/social/email.svg}
-  #wechat: {url: /#, qrcode: /img/custom/wechat.jpg, img: /img/social/wechat.png}
+  email: {url: https://juejin.im/user/5a31e8da6fb9a0450809ab85/posts, img: /img/social/email.svg}
+  wechat: {url: https://juejin.im/user/5a31e8da6fb9a0450809ab85/posts, qrcode: /img/custom/wechat.jpg, img: /img/social/wechat.png}
 
 #social  url, img 移动端配置
 msocial:
