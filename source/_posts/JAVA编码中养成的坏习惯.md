@@ -12,7 +12,7 @@ tags:
  - web
  - 悦读
 keywords: Sakura
-description: hexo-sakura主题使用教程
+description: JAVA编码中养成的坏习惯
 photos: https://user-gold-cdn.xitu.io/2017/12/14/160533dadae7265f?imageView2/1/w/1304/h/734/q/85/format/webp/interlace/1
 ---
 > 在设计及开发中，通常会由于各种原因，致使代码设计和开发中的无序。这里简单说一下碰到的几种简单情况。
