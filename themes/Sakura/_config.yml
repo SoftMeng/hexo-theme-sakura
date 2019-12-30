@@ -6,7 +6,7 @@ favicon: /images/favicon.ico
 avatar: /img/custom/avatar.jpg
 url: http://vertx.top
 description: 一双充满生命力的眼睛
-cdn: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6
+cdn: #https://cdn.jsdelivr.net/gh/honjun/cdn@1.6
 pjax: 1
 # 1开启
 mathjax: 0
