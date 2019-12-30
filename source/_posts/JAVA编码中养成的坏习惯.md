@@ -1,7 +1,7 @@
 ---
 title: JAVA编码中养成的坏习惯
 author: meng@xy
-avatar: https://user-gold-cdn.xitu.io/2017/12/14/16052f6485f5eee6?imageView2/1/w/180/h/180/q/85/format/webp/interlace/1
+avatar: https://i.loli.net/2019/12/30/ekxtSEDmwrsBqnU.png
 authorLink: vertx.top
 authorAbout: 研发工程师 | 角马科技（大连）有限公司
 authorDesc: 指尖下的幽灵-异世界的伴侣-希望永绝之地-生命沉寂之岭
@@ -13,7 +13,7 @@ tags:
  - 悦读
 keywords: Sakura
 description: JAVA编码中养成的坏习惯
-photos: https://user-gold-cdn.xitu.io/2017/12/14/160533dadae7265f?imageView2/1/w/1304/h/734/q/85/format/webp/interlace/1
+photos: https://i.loli.net/2019/12/30/STyfbRIFCWnM6Vs.jpg
 ---
 > 在设计及开发中，通常会由于各种原因，致使代码设计和开发中的无序。这里简单说一下碰到的几种简单情况。
 
