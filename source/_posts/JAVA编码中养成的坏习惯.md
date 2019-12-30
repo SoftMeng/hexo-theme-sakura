@@ -5,9 +5,7 @@ avatar: https://i.loli.net/2019/12/30/ekxtSEDmwrsBqnU.png
 authorLink: vertx.top
 authorAbout: 研发工程师 | 角马科技（大连）有限公司
 authorDesc: 指尖下的幽灵-异世界的伴侣-希望永绝之地-生命沉寂之岭
-categories: 
-  - 技术
-  - 随想
+categories: 技术
 date: 2019-12-12 22:16:01
 comments: true
 tags: 
