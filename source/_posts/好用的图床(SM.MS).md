@@ -18,7 +18,7 @@ photos: https://i.loli.net/2019/12/30/F2knUMAu7mN56Vb.jpg
 
 ## 图床
 
-![SM.MS图床](https://sm.ms/)
+https://sm.ms/
 
 ## 说说
 
